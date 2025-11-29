@@ -18,11 +18,6 @@ This repository is intended to showcase work and assignments. The provided assig
 
 If you don't see an index.html, open the relevant HTML files inside the ITC ASSIGNMENT_1 folder.
 
-## Suggested improvements
-- Add a root README (this file) describing each project in the repo (what tech was used, screenshots, live demo links).
-- Add screenshots in a docs/ or assets/ directory and reference them from the README.
-- Add a LICENSE file if you want to clarify reuse terms.
-- Add CONTRIBUTING.md if you expect collaborators.
 
 ## Contributing
 If you'd like to contribute or suggest changes:
